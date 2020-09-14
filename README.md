@@ -1,2 +1,2 @@
 # Machine-Learning-Notebooks
-Some coding stuff from various machine learning books
+Own exercise projects and some stuff from various machine learning books
